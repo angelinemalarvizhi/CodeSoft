@@ -82,7 +82,7 @@ MAKERCHIP LAB URL -- https://github.com/angelinemalarvizhi/vsd-riscv/blob/fba01d
 
 MAKERCHIP LAB IMAGES -- https://github.com/angelinemalarvizhi/vsd-riscv/tree/fba01d20a6d4f6e3aca29c30376c15610c8edcf8/DAY%203/IMAGES
 
-https://github.com/angelinemalarvizhi/vsd-riscv/tree/fba01d20a6d4f6e3aca29c30376c15610c8edcf8/DAY%203
+[DAY 3]https://github.com/angelinemalarvizhi/vsd-riscv/tree/fba01d20a6d4f6e3aca29c30376c15610c8edcf8/DAY%203
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 RV Day 4 - Basic RISC-V CPU micro-architecture
@@ -112,7 +112,7 @@ MAKERCHIP LAB URL -- https://github.com/angelinemalarvizhi/vsd-riscv/blob/fba01d
 
 MAKERCHIP LAB IMAGES -- https://github.com/angelinemalarvizhi/vsd-riscv/tree/fba01d20a6d4f6e3aca29c30376c15610c8edcf8/DAY%204/IMAGES
 
-https://github.com/angelinemalarvizhi/vsd-riscv/tree/fba01d20a6d4f6e3aca29c30376c15610c8edcf8/DAY%204
+[DAY 4]https://github.com/angelinemalarvizhi/vsd-riscv/tree/fba01d20a6d4f6e3aca29c30376c15610c8edcf8/DAY%204
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 RV Day 5 - Complete Pipelined RISC-V CPU micro-architecture
@@ -151,5 +151,5 @@ MAKERCHIP LAB URL -- https://github.com/angelinemalarvizhi/vsd-riscv/blob/fba01d
 
 MAKERCHIP LAB IMAGES -- https://github.com/angelinemalarvizhi/vsd-riscv/tree/fba01d20a6d4f6e3aca29c30376c15610c8edcf8/DAY%205/images
 
-https://github.com/angelinemalarvizhi/vsd-riscv/tree/fba01d20a6d4f6e3aca29c30376c15610c8edcf8/DAY%205
+[DAY 5]https://github.com/angelinemalarvizhi/vsd-riscv/tree/fba01d20a6d4f6e3aca29c30376c15610c8edcf8/DAY%205
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
