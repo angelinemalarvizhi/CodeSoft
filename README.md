@@ -80,7 +80,7 @@ D3SK5 - Hierarchy concept -- https://www.makerchip.com/v140/ide/~0n5fGh3q/p-058h
 
 MAKERCHIP LAB URL -- https://github.com/angelinemalarvizhi/vsd-riscv/blob/fba01d20a6d4f6e3aca29c30376c15610c8edcf8/DAY%203/URL/MAKERCHIP%20LABS
 
-MAKERCHIP LAB IMAGES -- https://github.com/angelinemalarvizhi/vsd-riscv/tree/fba01d20a6d4f6e3aca29c30376c15610c8edcf8/DAY%203/IMAGES
+MAKERCHIP LAB IMAGES -- (https://github.com/angelinemalarvizhi/vsd-riscv/tree/fba01d20a6d4f6e3aca29c30376c15610c8edcf8/DAY%203/IMAGES)
 
 [DAY 3](https://github.com/angelinemalarvizhi/vsd-riscv/tree/fba01d20a6d4f6e3aca29c30376c15610c8edcf8/DAY%203)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
