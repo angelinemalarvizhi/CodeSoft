@@ -81,6 +81,8 @@ D3SK5 - Hierarchy concept -- https://www.makerchip.com/v140/ide/~0n5fGh3q/p-058h
 MAKERCHIP LAB URL -- https://github.com/angelinemalarvizhi/vsd-riscv/blob/fba01d20a6d4f6e3aca29c30376c15610c8edcf8/DAY%203/URL/MAKERCHIP%20LABS
 
 MAKERCHIP LAB IMAGES -- https://github.com/angelinemalarvizhi/vsd-riscv/tree/fba01d20a6d4f6e3aca29c30376c15610c8edcf8/DAY%203/IMAGES
+
+https://github.com/angelinemalarvizhi/vsd-riscv/tree/fba01d20a6d4f6e3aca29c30376c15610c8edcf8/DAY%203
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 RV Day 4 - Basic RISC-V CPU micro-architecture
@@ -109,6 +111,8 @@ D4SK3 - RISC-V control logic -- https://www.makerchip.com/v140/ide/~0n5fGh3q/p-0
 MAKERCHIP LAB URL -- https://github.com/angelinemalarvizhi/vsd-riscv/blob/fba01d20a6d4f6e3aca29c30376c15610c8edcf8/DAY%204/URL/MAKERCHIP%20LABS
 
 MAKERCHIP LAB IMAGES -- https://github.com/angelinemalarvizhi/vsd-riscv/tree/fba01d20a6d4f6e3aca29c30376c15610c8edcf8/DAY%204/IMAGES
+
+https://github.com/angelinemalarvizhi/vsd-riscv/tree/fba01d20a6d4f6e3aca29c30376c15610c8edcf8/DAY%204
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 RV Day 5 - Complete Pipelined RISC-V CPU micro-architecture
@@ -146,4 +150,6 @@ D5SK3 - Load/Store Instructions and Completing RISC-V CPU -- https://www.makerch
 MAKERCHIP LAB URL -- https://github.com/angelinemalarvizhi/vsd-riscv/blob/fba01d20a6d4f6e3aca29c30376c15610c8edcf8/DAY%205/URL/Makerchip%20labs
 
 MAKERCHIP LAB IMAGES -- https://github.com/angelinemalarvizhi/vsd-riscv/tree/fba01d20a6d4f6e3aca29c30376c15610c8edcf8/DAY%205/images
+
+https://github.com/angelinemalarvizhi/vsd-riscv/tree/fba01d20a6d4f6e3aca29c30376c15610c8edcf8/DAY%205
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
