@@ -13,6 +13,7 @@ branch/jump control
 load/store memory operations
 timing-abstract hardware design
 (MakerChip link, file and screenshots at EOF)
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 RV Day 1 - Introduction to RISC-V ISA and GNU compiler toolchain
 
